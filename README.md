@@ -1,2 +1,2 @@
 # edom-sentiment
-Code and datasets of paper : sentiment analysis in EDOM
+Code, datasets and compiled model of paper : sentiment analysis in EDOM using deep learning
