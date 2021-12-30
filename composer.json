@@ -1,0 +1,19 @@
+{
+    "name": "samfch/sentiment-edom",
+    "description": "Sentiment Analysis for EDOM",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "samfch",
+            "email": "hanxgen3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2",
+        "league/csv": "^9.5",
+        "rubix/ml": ">=0.1.0-rc2",
+        "rubix/tensor": "^2.0"
+    }
+}
